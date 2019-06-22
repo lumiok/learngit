@@ -2,4 +2,4 @@
 第二行 Hi Git
 第三行 你好 Git
 第四行 好好学习
-第五行 这行是中dev分支中增加的内容
+第五行 Creating a new branch is quick AND simple.
