@@ -1,4 +1,4 @@
-第一行
+﻿第一行
 第二行 Hi Git
 第三行 你好 Git
 第四行 好好学习
@@ -7,4 +7,4 @@
 20200909 新的开始，晚安
 第八行，在dev分支上增加的行。
 Creating a new branch is quick and simple.
-第10行 新的一天
+第10行 新的一天,上班
