@@ -6,3 +6,4 @@
 第六行 这是在ecipse中增加的
 20200909 新的开始，晚安
 第八行，在dev分支上增加的行。
+第九行 Creating a new branch is quick AND simple.
