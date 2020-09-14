@@ -3,7 +3,7 @@
 第三行 你好 Git
 第四行 好好学习
 第五行 Creating a new branch is quick and simple.
-第六行 这是在ecipse中增加的
+第六行 这是在ecipse中增加的.在dev分支作改动，增加此行。然后又写点啥好呢？模拟用户在dev分支作改动，啦啦~
 20200909 新的开始，晚安
 第八行，在dev分支上增加的行。
 Creating a new branch is quick and simple.
